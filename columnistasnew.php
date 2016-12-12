@@ -172,7 +172,7 @@ $array2 = array_slice($data,8);
 				<div class="items">
 					<?php
 					foreach ($array1 as $key => $value):
-						if($x! == 0 and $x % 4 == 0){
+						if($x!== 0 and $x % 4 == 0){
 					?>
 					</div><div class="items">
 					<?php 
